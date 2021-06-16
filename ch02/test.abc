@@ -1,0 +1,15 @@
+X:1
+T:sample music
+C:Marcel Molenaar
+M:4/4
+L:1/8
+K:C
+V:1 name="Sopran" sname="S"
+"C"e2eb|c2c2|"g7"d2df|"c"(ED)c2|
+w:Go tell Aunt Rho-dy, go tell Aunth Rho-dy,
+E2"e7"ED|"Am"C2"F"CF|"C"EE"G7"DD|"C"C4|]
+w:go tell Aunt Rho-dy, the old gray goose is dead!
+V:2 name="Alt" sname="A"
+V:3 name="Tenor" sname="T" clef=treble-8
+V:4 name="Bass" sname="B" clef=bass
+
